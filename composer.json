@@ -15,7 +15,7 @@
     "autoload": {
         "files": [
             "registration.php",
-            "vendor/magento/magento2-base/pub/errors/processor.php"
+            "../../vendor/magento/magento2-base/pub/errors/processor.php"
         ],
         "psr-4": {
             "Creatuity\\CustomMaintenance\\": ""
